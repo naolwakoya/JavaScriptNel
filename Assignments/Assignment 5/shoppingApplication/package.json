@@ -1,0 +1,41 @@
+{
+  "name": "package.json",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "bcryptjs": ">=2.4.3",
+    "body-parser": ">=1.18.2",
+    "connect-flash": ">=0.1.1",
+    "connect-mongo": "^2.0.1",
+    "cookie-parser": ">=1.4.3",
+    "debug": "~2.6.9",
+    "express": "^4.16.3",
+    "express-handlebars": ">=3.0.0",
+    "express-messages": ">=1.0.1",
+    "express-session": ">=1.15.6",
+    "express-validator": ">=4.3.0",
+    "handlebars.moment": "^1.0.4",
+    "mongodb": ">=2.2.33",
+    "mongoose": ">=4.13.5",
+    "morgan": ">=1.9.0",
+    "passport": ">=0.4.0",
+    "passport-local": ">=1.0.0",
+    "paypal-rest-sdk": "^1.8.1",
+    "serve-favicon": "~2.4.5"
+  },
+  "description": "To run this app you need a personal Paypal Account You can create on at paypal.com When you create the account you don't need to link a credit card or bank account at that time. I just ignored that step when prompted and it created the account anyway. I received confirmation by email.",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "kalebtesfay"
+  },
+  "keywords": [
+    "2406"
+  ],
+  "author": "Kaleb Tesfay & Naol Gushu",
+  "license": "ISC"
+}

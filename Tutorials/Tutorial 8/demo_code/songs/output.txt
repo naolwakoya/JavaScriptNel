@@ -1,0 +1,34 @@
+{
+  "songs": [
+    {
+      "title": "26-2",
+      "composer": "Coltrane John",
+      "style": "Medium Up Swing",
+      "key": "F"
+    },
+    {
+      "title": "500 Miles High",
+      "composer": "Corea Chick",
+      "style": "Bossa Nova",
+      "key": "E-"
+    },
+    {
+      "title": "502 Blues",
+      "composer": "Rowles Jimmy",
+      "style": "Waltz",
+      "key": "A-"
+    },
+    {
+      "title": "52nd Street Theme",
+      "composer": "Monk Thelonious",
+      "style": "Up Tempo Swing",
+      "key": "C"
+    },
+    {
+      "title": "9.20 Special",
+      "composer": "Warren Earl",
+      "style": "Medium Swing",
+      "key": "C"
+    }
+  ]
+}

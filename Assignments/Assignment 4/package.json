@@ -1,0 +1,21 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "A 2406 Assignment using Express App with API and DOM.",
+  "main": "express.js",
+  "scripts": {
+    "test": "localhost:3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "kalebtesfay"
+  },
+  "keywords": [
+    "API"
+  ],
+  "author": "Kaleb Tesfay & Naol Wakoya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
